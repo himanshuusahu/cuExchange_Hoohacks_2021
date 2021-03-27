@@ -1,1 +1,4 @@
-#
+Forex-python - https://pypi.org/project/forex-python/
+tkinter - https://docs.python.org/3/library/tkinter.html
+Pillow - https://pypi.org/project/Pillow/
+
