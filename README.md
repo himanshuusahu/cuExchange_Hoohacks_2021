@@ -9,6 +9,7 @@
 -We will design this with GUI for a better view of our program and then convert it into an application.
 - In this hack, I (the admin) makes contribution on writing the codes for currency conversion  and structuring the website (using HTML) in which we are going to host the our code and output of each option we created in our Project. My teammate Himanshu handles the coding of GUI of the application and beautifying our website using CSS and Bootstrap and makes his fabulous contribution in this project.
 - The main challenges we face is to access the Real time Data of the currencies. But soon after we both are able to figure it out the bug and did what we planned successfully.
+- We import PIL in place of Pillow as PIL is a forked version of Pillow.
 # Modules we used :-
 For designinng : tkinter
 
