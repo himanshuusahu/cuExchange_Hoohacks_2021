@@ -1,65 +1,24 @@
-# Project Hoohacks
-# Topic - Finanace
-# Currency Converter Application
-# @Aditya Kumar Gupta & @ Himanshu Sahu
+# Project Hackverse 2.0 @Aditya Kumar Gupta & @ Himanshu Sahu
 
-# Description
--We are coding for a program that can convert currencies at the current time, as currency between different countries trades over a second, hence this will be a ‘REAL-TIME CONVERTER’. With the help of this program, we can easily able to one currency to another in a simple click.
+Website for more convenience - https://al1216.github.io/ydms_HackVerse2.0/
 
--We will design this with GUI for a better view of our program and then convert it into an application.
-- In this hack, I (the admin) makes contribution on writing the codes for currency conversion  and structuring the website (using HTML) in which we are going to host the our code and output of each option we created in our Project. My teammate Himanshu handles the coding of GUI of the application and beautifying our website using CSS and Bootstrap and makes his fabulous contribution in this project.
-- The main challenges we face is to access the Real time Data of the currencies. But soon after we both are able to figure it out the bug and did what we planned successfully.
-- We import PIL in place of Pillow as PIL is a forked version of Pillow.
-# Modules we used :-
-For designinng : tkinter
+Youtube Video link - https://youtu.be/dVZIyFsspOU
 
-For Currency Conversion: forex-python
+Title of the hack - YOUR DATABASE MANAGEMENT SYSTEM
 
-For converting to exe: Pyinstaller (auto-py-to-exe)
-# forex-python
+Description-
+1) While taking into the consideration the impact of this cute, sweet project on society that each person can make a track of his daily routine essential works such as learning coding, dieting, earning money (each day), physical fitness, one's knowledge each day with date. Anyone can keep track of it and improve themselves as they want in any spheres of their life.
+2) in this hack , I (the admin) makes contribution on writing the codes in "frontend.py" and structuring the website (using HTML) in which we are going to host the our code and output of each option we created in our Project.
+My teammate Himanshu handles the coding in "backend.py" and beautifying our website using CSS and Bootstrap and makes his fabulous contribution in this project.
+3) The main challenges we face is to connect frontend and backend, and deleting the records if user wants to delete it. But soon after we both are able to figure it out  the bug and did what we planned successfully.
+4) The system design implementation includes tkinter and sqlite3 with Python Coding. We basically connects the frontend and backend using connect() command and stores the information in rountine.db for later use. We try to make it as sweet and cute as possible. 
 
-forex-python is a python module that provides functionality for foreign exchange rates and currency conversion. 
+Tech stack used in the hack- 
+Python, tkinter, sqlite3
 
-## Installation
+Libraries and dependencies-
+module- tkinter and sqlite3
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
-
-```bash
-pip install forex-python
-
-```
-# Tkinter
-
-Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
-
-```bash
-pip install tkinter
-
-```
-# auto-py-to-exe
-
-This project allows you to convert python scripts to executables with a simple interface. 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
-
-```bash
-pip install auto-py-to-exe
-
-```
-# Pillow 
-
-Python Imaging Library is a free and open-source additional library for the Python programming language that adds support for opening, manipulating, and saving many different image file formats
-(NOTE - Although we installed Pillow but we are going to use PIL module for our coding, as PIL is a forked version of Pillow)
-## Installation
-
-Use this package manager [pip](https://pip.pypa.io/en/stable/) to install.
-
-```bash
-pip install pillow
-
-```
-
+Installation steps: -
+Just install 3 files given namely "frontend.py", "backend.py" and "routine.db" and run in any preferred idle such as Visual Studio Code, Pythons'Idle etc(Must be in Same Folder).
+After installing just enter the information that asked there and select "ADD" button or you if you entered wrong details just select "Delete date" or want to search something select "Search" with anyone of the field you want and enjoy our project.
