@@ -49,3 +49,15 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 pip install auto-py-to-exe
 
 ```
+# Pillow 
+
+Python Imaging Library is a free and open-source additional library for the Python programming language that adds support for opening, manipulating, and saving many different image file formats. I
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
+
+```bash
+pip install pillow
+
+```
+
